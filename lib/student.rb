@@ -9,3 +9,8 @@ end
 def learn(lesson)
   @knowledge.push(lesson)
 end
+
+def knowledge
+  
+  
+end
