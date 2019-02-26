@@ -7,5 +7,5 @@ def initialize
 end
 
 def learn(lesson)
-  
+  knowledge.push(lesson)
 end
