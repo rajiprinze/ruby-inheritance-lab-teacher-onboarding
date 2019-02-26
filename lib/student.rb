@@ -1,6 +1,6 @@
 class Student < User
 
-def initialize
+def new
   @KNOWLEDGE = []
 end
 
